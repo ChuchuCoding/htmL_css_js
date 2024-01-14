@@ -1,0 +1,145 @@
+   mount  GBiBE
+   river Gee
+   bopulu
+   
+   
+   
+   <!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta name="yandex-verification" content="4210db7fb88dd9fa" />
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <script src="https://kit.fontawesome.com/a81368914c.js"></script>
+     <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Poppins:wght@100;200;300;400;500;600;700&display=swap"
+          rel="stylesheet">
+     <link rel="stylesheet" href="src/style.css">
+     <title>Chuchu Davies</title>
+     <link rel="icon" href="imgs/dava.png" type="image/x-icon">
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2167251825126678"
+          crossorigin="anonymous"></script>
+</head>
+
+<body id="body" class="dark" oncontextmenu="return false">
+     <div id="particles-js"></div>
+     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+     <div class="wrapper">
+          <div class="toggle">
+               <input class="toggle-input" type="checkbox" />
+               <div class="toggle-bg"></div>
+               <div class="toggle-switch">
+                    <div class="toggle-switch-figure"></div>
+                    <div class="toggle-switch-figureAlt"></div>
+               </div>
+          </div>
+     </div>
+     <div class="modal">
+          <img src="imgs/chuchu.png" alt>
+          <div class="close"></div>
+     </div>
+
+     <div id="container" class="container">
+          <input type="checkbox" name id="check">
+          <div class="card">
+               <div class="sidebar" id="sidebar"title="Click">
+                    <ul>
+                         <li><a class="active" href="https://github.com/chuchucoding"title="Contact on www.github.com" target="_blank" rel="noopener noreferrer">Github</a></li>
+                         <li><a class="active" href="https://www.fiverr.com/chuchucoding" title="Contact on www.fiverr.com"target="_blank"
+                                   rel="noopener noreferrer">Fiverr</a></li>
+                         
+                         <li><a class="active" href="https://t.me/chuchucoding"title="Contact on www.telegram.com"target="_blank">Telegram</a></li>
+                   
+                       
+                    </ul>
+               </div>
+               <div class="header">
+                    <label for="check" class="checkbtn" id="chkbtn">
+                         <div class="hamburger-menu">
+                              <div class="center"></div>
+                         </div>
+                    </label>
+                    <a href="mailto:davieschuchu@gmail.com"title="Email Chuchu" class="mail">
+                         <i class="far fa-envelope"></i>
+                    </a>
+                    <div class="main">
+                         <div class="image">
+                              <div class="hover">
+                                   <i class="fas fa-camera fa-2x"></i>
+                              </div>
+                         </div>
+                         <h3 class="name">Chuchu Davies 🇱🇷🇬🇭</h3>
+                         <h3 class="sub-name">@ChuchuCoding
+                    </div>
+               </div>
+
+               <div class="content">
+                    <div class="left">
+                         <div class="about-container">
+                              <h3 class="title">About</h3>
+                              <p class="text">
+                                   BScIT | Software Engineer  <br />
+                                   C, C++, C#, Python, PHP, HTML, CSS, Js, Shell, Ruby, Go, Android, IOS💖
+                              </p>
+                         </div>
+                         <div class="icons-container">
+                              <a href="https://github.com/sbatrow-x" class="icon">
+                                   <i class="fab fa-github"></i>
+                              </a>
+                              <a href="https://telegram.dog/chuchucoding" class="icon">
+                                   <i class="fab fa-telegram"></i>
+                              </a>
+
+                              <a href="https://www.linkedin.com/in/chuchucoding/" class="icon">
+                                   <i class="fab fa-linkedin-in"></i>
+                              </a>
+
+                              <a href="https://www.fiverr.com/chuchucoding" class="icon">
+                                   <i class="fab fa-dev"></i>
+                              </a>
+
+                         </div>
+                         <div class="buttons-wrap">
+                              <div class="follow-wrap">
+                                   <a href="https://github.com/chuchucoding" class="follow">Follow</a>
+                              </div>
+                              <div class="share-wrap">
+                                   <a href="https://chuchucoding231.xyz" class="share">Contact</a>
+                              </div>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+     </div>
+     <script>
+          document.onkeydown = function(e) {
+               if (event.keyCode == 123) {
+                    return false;
+               }
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
+                    return false;
+               }
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) {
+                    return false;
+               }
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
+                    return false;
+               }
+               if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
+                    return false;
+               }
+          }
+     </script>
+     <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+     <script src="https://cdn.jsdelivr.net/gh/tuhinpal/contact-form@master/src/contact-form.min.js" id="contactform"
+          error_text="Oops! Something went wrong!"
+          success_text="Your message has been delivered! I'll contact you back in the provided details as soon as possible! Please wait half a day before trying to send a new message!"
+          disable_waittime="true" form_worker_url="https://restless-tooth-e2a3.sbatrow.workers.dev/">
+     </script>
+
+     <script src="src/app.js"></script>
+</body>
+
+</html>
